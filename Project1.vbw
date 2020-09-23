@@ -1,0 +1,5 @@
+frmTbar = 110, 110, 578, 408, C, 176, 176, 540, 620, C
+frmObjects = 0, 0, 364, 444, C, 154, 153, 518, 598, C
+modMail = 0, 0, 0, 0, C
+clsTransForm = 0, 0, 0, 0, C
+CRect = 0, 0, 0, 0, C
